@@ -1,11 +1,12 @@
 Trainer: Seif Ihab
 
+# DO NOT ADD A NEW LINE - REPLACE THE LINE BELOW WITH YOUR OWN NAME
+Owner: TBD
+
+# DO NOT ADD A NEW LINE - REPLACE THE LINE BELOW WITH YOUR OWN ROLE
+Current Feature Owner: nobody yet
+
 Interns:
 1. Intern A - Name: _____________  GitHub: _____________
 2. Intern B - Name: _____________  GitHub: _____________
 3. Intern C - Name: _____________  GitHub: _____________
-
-Assigned features:
-- Intern A: Greeting feature
-- Intern B: Calculator multiply/divide
-- Intern C: Team info printer
