@@ -2,7 +2,7 @@ package com.training;
 
 public class App {
     public static void main(String[] args) {
-        // DO NOT ADD A NEW LINE - REPLACE THE LINE BELOW WITH YOUR OWN MESSAGE
+        // DO NOT  A NEW LINE - REPLACE THE LINE BELOW WITH YOUR OWN MESSAGE
         System.out.println("Welcome from Intern B - <ibrahim hamdi mahmoud > ");
 
         Calculator calculator = new Calculator();
