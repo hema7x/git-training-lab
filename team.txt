@@ -1,10 +1,11 @@
 Trainer: Seif Ihab
 
 # DO NOT ADD A NEW LINE - REPLACE THE LINE BELOW WITH YOUR OWN NAME
-Owner: TBD
+Owner: <ibrahim hamdi mahmoud  >
+
 
 # DO NOT ADD A NEW LINE - REPLACE THE LINE BELOW WITH YOUR OWN ROLE
-Current Feature Owner: nobody yet
+Current Feature Owner: <ibrahim hamdi mahmoud >
 
 Interns:
 1. Intern A - Name: _____________  GitHub: _____________
