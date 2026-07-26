@@ -9,7 +9,7 @@ public class App {
         System.out.println("2 + 3 = " + calculator.add(2, 3));
         System.out.println("10 - 4 = " + calculator.subtract(10, 4));
 
-        // DO NOT ADD A NEW LINE - REPLACE THE LINE BELOW WITH YOUR OWN OPERATION
+        // DO NOT ADD A NEEPLACE THE LINE BELOW WITH YOUR OWN OPERATION
         System.out.println("20 / 4 " + calculator.divide(20 , 4 ));
     }
 }
