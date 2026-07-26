@@ -1,11 +1,10 @@
 Trainer: Seif Ihab
 
 # DO NOT ADD A NEW LINE - REPLACE THE LINE BELOW WITH YOUR OWN NAME
-Owner: TBD
+Owner: Yossef Magdy
 
 # DO NOT ADD A NEW LINE - REPLACE THE LINE BELOW WITH YOUR OWN ROLE
-Current Feature Owner: nobody yet
-
+Current Feature Owner: <Youssef Magdy> - multiply
 Interns:
 1. Intern A - Name: _____________  GitHub: _____________
 2. Intern B - Name: _____________  GitHub: _____________

@@ -11,5 +11,7 @@ public class Calculator {
     }
 
     // DO NOT ADD YOUR METHOD ANYWHERE ELSE - REPLACE THE LINE BELOW WITH YOUR NEW METHOD
-    // TODO: add your operation here
+    public int multiply(int a, int b) {
+        return a * b;
+    }
 }
