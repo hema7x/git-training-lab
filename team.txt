@@ -6,6 +6,6 @@ Owner: Yossef Magdy
 # DO NOT ADD A NEW LINE - REPLACE THE LINE BELOW WITH YOUR OWN ROLE
 Current Feature Owner: <Youssef Magdy> - multiply
 Interns:
-1. Intern A - Name: _____________  GitHub: _____________
+1. Intern A - Name: Youssef Magdy  GitHub: https://github.com/YOUSSEF10MAGDY
 2. Intern B - Name: _____________  GitHub: _____________
 3. Intern C - Name: _____________  GitHub: _____________
