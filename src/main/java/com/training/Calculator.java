@@ -13,5 +13,6 @@ public class Calculator {
     // DO NOT ADD YOUR METHOD ANYWHERE ELSE - REPLACE THE LINE BELOW WITH YOUR NEW METHOD
      public int divide (int a  ,int b ){
 
+        return a/b ;
      }
 }
